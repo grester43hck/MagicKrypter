@@ -1,0 +1,2 @@
+# MagicKrypter
+puro aburrimiento.
